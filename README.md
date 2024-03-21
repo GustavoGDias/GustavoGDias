@@ -15,8 +15,8 @@
 <td width="50%" align="left">
 
 - 🌱 I’m currently learning Backend Development
-- ⚡ Fun fact: I Love FromSoftware games 
--->
+- ⚡ Fun fact: I Love FromSoftware games 🗡
+
 
 </td>
 <td width="50%" align="center">
