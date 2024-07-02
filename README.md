@@ -1,10 +1,3 @@
-<details align="center">
-
-<summary> <b> <samp> Light bonfire </samp></b></summary>
-<samp>
- <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
-
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
 
 <h1 align="center">Hi 👋, I'm Gustavo Dias</h1>
@@ -76,4 +69,13 @@
             height="50" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <img
             src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="photoshop" width="50"
             height="50" /> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+
+
+<details align="center">
+
+<summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
